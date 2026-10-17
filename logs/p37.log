@@ -1,0 +1,21 @@
+p=37 step1 255s: L=3714566310 (expected 3714566310) DD path=OK first=1 last=01^{p-1} OK
+cycle: 3714566310 flips (L=3714566310), segments=18, shift s=2, 872s
+done 874s
+      874.70 real      1614.34 user         8.65 sys
+         19526746112  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+             1654337  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                1150  voluntary context switches
+              717480  involuntary context switches
+      17127618477618  instructions retired
+       4175333285410  cycles elapsed
+         19518372096  peak memory footprint

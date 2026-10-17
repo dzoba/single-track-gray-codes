@@ -1,0 +1,19 @@
+p=37 m=3714566310 s=2 P=137438953470 optimal_length=1 flips_valid=1 duplicates=0 constant=0 passes_chain=1 marked=137438953470 -> PASS
+      853.76 real      2684.56 user        20.38 sys
+         20896055296  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+             1275647  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   0  voluntary context switches
+             3150994  involuntary context switches
+       2553438565639  instructions retired
+       5798023435638  cycles elapsed
+         20905868192  peak memory footprint

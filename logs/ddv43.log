@@ -1,0 +1,72 @@
+ddv: p=43 threads=4 scan t in [1, 4398046511104) chunks=262144
+progress 4096/262144 chunks (1.6%) elapsed 612.0s eta 38555.6s
+progress 8192/262144 chunks (3.1%) elapsed 1182.8s eta 36667.2s
+progress 12288/262144 chunks (4.7%) elapsed 1714.3s eta 34857.9s
+progress 16384/262144 chunks (6.2%) elapsed 2192.0s eta 32880.2s
+progress 20480/262144 chunks (7.8%) elapsed 2640.1s eta 31152.6s
+progress 24576/262144 chunks (9.4%) elapsed 3081.0s eta 29782.9s
+progress 28672/262144 chunks (10.9%) elapsed 3484.3s eta 28372.3s
+progress 32768/262144 chunks (12.5%) elapsed 3787.7s eta 26514.2s
+progress 36864/262144 chunks (14.1%) elapsed 4078.0s eta 24921.0s
+progress 40960/262144 chunks (15.6%) elapsed 4412.6s eta 23828.0s
+progress 45056/262144 chunks (17.2%) elapsed 4719.7s eta 22740.3s
+progress 49152/262144 chunks (18.8%) elapsed 4977.6s eta 21569.8s
+progress 53248/262144 chunks (20.3%) elapsed 5232.9s eta 20529.0s
+progress 57344/262144 chunks (21.9%) elapsed 5499.2s eta 19640.1s
+progress 61440/262144 chunks (23.4%) elapsed 5743.1s eta 18760.9s
+progress 65536/262144 chunks (25.0%) elapsed 5785.6s eta 17356.8s
+progress 69632/262144 chunks (26.6%) elapsed 5827.9s eta 16112.5s
+progress 73728/262144 chunks (28.1%) elapsed 6063.1s eta 15494.5s
+progress 77824/262144 chunks (29.7%) elapsed 6270.0s eta 14850.0s
+progress 81920/262144 chunks (31.2%) elapsed 6435.9s eta 14159.0s
+progress 86016/262144 chunks (32.8%) elapsed 6605.8s eta 13526.2s
+progress 90112/262144 chunks (34.4%) elapsed 6779.6s eta 12942.9s
+progress 94208/262144 chunks (35.9%) elapsed 7028.3s eta 12528.7s
+progress 98304/262144 chunks (37.5%) elapsed 7150.9s eta 11918.2s
+progress 102400/262144 chunks (39.1%) elapsed 7264.0s eta 11331.8s
+progress 106496/262144 chunks (40.6%) elapsed 7490.5s eta 10947.6s
+progress 110592/262144 chunks (42.2%) elapsed 7708.3s eta 10563.3s
+progress 114688/262144 chunks (43.8%) elapsed 7884.8s eta 10137.7s
+progress 118784/262144 chunks (45.3%) elapsed 7958.5s eta 9605.1s
+progress 122880/262144 chunks (46.9%) elapsed 8007.4s eta 9075.0s
+progress 126976/262144 chunks (48.4%) elapsed 8057.5s eta 8577.3s
+progress 131072/262144 chunks (50.0%) elapsed 8106.2s eta 8106.2s
+progress 135168/262144 chunks (51.6%) elapsed 8156.7s eta 7662.3s
+progress 139264/262144 chunks (53.1%) elapsed 8210.0s eta 7244.2s
+progress 143360/262144 chunks (54.7%) elapsed 8264.6s eta 6847.8s
+progress 147456/262144 chunks (56.2%) elapsed 8318.3s eta 6469.8s
+progress 151552/262144 chunks (57.8%) elapsed 8451.5s eta 6167.3s
+progress 155648/262144 chunks (59.4%) elapsed 8632.0s eta 5906.1s
+progress 159744/262144 chunks (60.9%) elapsed 8804.7s eta 5644.0s
+progress 163840/262144 chunks (62.5%) elapsed 8892.6s eta 5335.6s
+progress 167936/262144 chunks (64.1%) elapsed 8971.7s eta 5032.9s
+progress 172032/262144 chunks (65.6%) elapsed 9125.4s eta 4779.9s
+progress 176128/262144 chunks (67.2%) elapsed 9322.0s eta 4552.6s
+progress 180224/262144 chunks (68.8%) elapsed 9463.6s eta 4301.6s
+progress 184320/262144 chunks (70.3%) elapsed 9620.8s eta 4062.1s
+progress 188416/262144 chunks (71.9%) elapsed 9728.5s eta 3806.8s
+progress 192512/262144 chunks (73.4%) elapsed 9796.0s eta 3543.2s
+progress 196608/262144 chunks (75.0%) elapsed 9874.1s eta 3291.4s
+progress 200704/262144 chunks (76.6%) elapsed 9947.2s eta 3045.1s
+progress 204800/262144 chunks (78.1%) elapsed 10019.2s eta 2805.4s
+progress 208896/262144 chunks (79.7%) elapsed 10106.4s eta 2576.1s
+progress 212992/262144 chunks (81.2%) elapsed 10164.7s eta 2345.7s
+progress 217088/262144 chunks (82.8%) elapsed 10212.6s eta 2119.6s
+progress 221184/262144 chunks (84.4%) elapsed 10266.1s eta 1901.1s
+progress 225280/262144 chunks (85.9%) elapsed 10318.9s eta 1688.5s
+progress 229376/262144 chunks (87.5%) elapsed 10370.4s eta 1481.5s
+progress 233472/262144 chunks (89.1%) elapsed 10417.9s eta 1279.4s
+progress 237568/262144 chunks (90.6%) elapsed 10470.9s eta 1083.2s
+progress 241664/262144 chunks (92.2%) elapsed 10521.2s eta 891.6s
+progress 245760/262144 chunks (93.8%) elapsed 10573.9s eta 704.9s
+progress 249856/262144 chunks (95.3%) elapsed 10624.6s eta 522.5s
+progress 253952/262144 chunks (96.9%) elapsed 10683.8s eta 344.6s
+progress 258048/262144 chunks (98.4%) elapsed 10739.5s eta 170.5s
+progress 262144/262144 chunks (100.0%) elapsed 10790.5s eta 0.0s
+RESULT p=43 necklaces=204560302842 expected=204560302842 count-OK
+first necklace word 0000000000000000000000000000000000000000001
+last  necklace word 0111111111111111111111111111111111111111111
+nonadjacent consecutive pairs: 0
+wraparound pair (last,first) adjacent: no
+sequence hash a452b418d5c7f968
+DD(43) HOLDS  time 10790.46s

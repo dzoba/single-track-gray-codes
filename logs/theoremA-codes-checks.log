@@ -1,0 +1,29 @@
+== p=7 s=3
+n=7 P=126 optimal_length=True distinct=True nonconstant=True one_bit_steps=True -> PASS
+n=7 P=126 optimal_length=1 duplicates=0 constant=0 bad_steps=0 -> PASS
+p=7 m=18 s=3 P=126 optimal_length=1 flips_valid=1 duplicates=0 constant=0 passes_chain=1 marked=126 -> PASS
+== p=11 s=7
+n=11 P=2046 optimal_length=True distinct=True nonconstant=True one_bit_steps=True -> PASS
+n=11 P=2046 optimal_length=1 duplicates=0 constant=0 bad_steps=0 -> PASS
+p=11 m=186 s=7 P=2046 optimal_length=1 flips_valid=1 duplicates=0 constant=0 passes_chain=1 marked=2046 -> PASS
+== p=13 s=2
+n=13 P=8190 optimal_length=True distinct=True nonconstant=True one_bit_steps=True -> PASS
+n=13 P=8190 optimal_length=1 duplicates=0 constant=0 bad_steps=0 -> PASS
+p=13 m=630 s=2 P=8190 optimal_length=1 flips_valid=1 duplicates=0 constant=0 passes_chain=1 marked=8190 -> PASS
+== p=17 s=2
+n=17 P=131070 optimal_length=True distinct=True nonconstant=True one_bit_steps=True -> PASS
+n=17 P=131070 optimal_length=1 duplicates=0 constant=0 bad_steps=0 -> PASS
+p=17 m=7710 s=2 P=131070 optimal_length=1 flips_valid=1 duplicates=0 constant=0 passes_chain=1 marked=131070 -> PASS
+== p=19 s=15
+n=19 P=524286 optimal_length=True distinct=True nonconstant=True one_bit_steps=True -> PASS
+n=19 P=524286 optimal_length=1 duplicates=0 constant=0 bad_steps=0 -> PASS
+p=19 m=27594 s=15 P=524286 optimal_length=1 flips_valid=1 duplicates=0 constant=0 passes_chain=1 marked=524286 -> PASS
+== p=23 s=19
+n=23 P=8388606 optimal_length=True distinct=True nonconstant=True one_bit_steps=True -> PASS
+n=23 P=8388606 optimal_length=1 duplicates=0 constant=0 bad_steps=0 -> PASS
+p=23 m=364722 s=19 P=8388606 optimal_length=1 flips_valid=1 duplicates=0 constant=0 passes_chain=1 marked=8388606 -> PASS
+== p=29 s=2
+n=29 P=536870910 optimal_length=True distinct=True nonconstant=True one_bit_steps=True -> PASS (chunked)
+n=29 P=536870910 optimal_length=1 duplicates=0 constant=0 bad_steps=0 -> PASS
+p=29 m=18512790 s=2 P=536870910 optimal_length=1 flips_valid=1 duplicates=0 constant=0 passes_chain=1 marked=536870910 -> PASS
+p=21 L=99878 expected=99864 nonadjacent_pairs=10 first=0..01:1 last=01^{p-1}:1 -> DD(21) FAILS  (0s)
